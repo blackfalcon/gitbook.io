@@ -205,5 +205,20 @@
                 "url": "https://github.com/vmayoral"
             }
         ]
+    },
+        {
+        "id": "jbryer/Rgitbook",
+        "title": "R Package for Gitbook and R Markdown",
+        "description": "An R package for create Gitbooks from R using R Markdown.",
+        "url": "http://jason.bryer.org/Rgitbook/",
+        "langs": ["en"],
+        "authors": [
+            {
+                "name": "Jason Bryer",
+                "email": "jason@bryer.org",
+                "url": "https://github.com/jbryer"
+            }
+        ]
     }
+
 ]
