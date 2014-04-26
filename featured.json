@@ -206,7 +206,7 @@
             }
         ]
     },
-        {
+    {
         "id": "jbryer/Rgitbook",
         "title": "R Package for Gitbook and R Markdown",
         "description": "An R package for create Gitbooks from R using R Markdown.",
@@ -219,6 +219,20 @@
                 "url": "https://github.com/jbryer"
             }
         ]
-    }
+    },
+    {
+        "id": "japaric/rust-by-example",
+        "title": "Rust by Example",
+        "description": "This book is a collection of bitesize examples that illustrate various rustic concepts and the Rust distribution libraries.",
+        "url": "http://rustbyexample.github.io/",
+        "langs": [ "en" ],
+        "authors": [
+            {
+                "name": "Jorge Aparicio",
+                "email": "japaric@linux.com",
+                "url": "https://github.com/japaric"
+            }
+        ]
+    },
 
 ]
