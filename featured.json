@@ -233,5 +233,19 @@
                 "url": "https://github.com/jbryer"
             }
         ]
+    },
+    {
+        "id": "alchapone/hard-rock-coffeescript",
+        "title": "Hard Rock CoffeeScript",
+        "description": "Learn CoffeeScript syntax, Object-Oriented style and Design Patterns.",
+        "url": "http://alchapone.github.io/hard-rock-coffeescript/",
+        "langs": ["en"],
+        "authors": [
+            {
+                "name": "Alex Chaplinsky",
+                "email": "alchapone@yandex.ru",
+                "url": "https://github.com/alchapone"
+            }
+        ]
     }
 ]
