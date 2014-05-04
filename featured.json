@@ -247,5 +247,19 @@
                 "url": "https://github.com/alchapone"
             }
         ]
+    },
+    {
+        "id": "emptymalei/gradschool",
+        "title": "Gradschool Survival Manual",
+        "description": "A survival manual for your gradschool.",
+        "url": "http://openmetric.org/gradschool/book/index.html",
+        "langs": ["en"],
+        "authors": [
+            {
+                "name": "Lei",
+                "email": "emptymalei@qq.com",
+                "url": "https://github.com/emptymalei"
+            }    
+        ]
     }
 ]
