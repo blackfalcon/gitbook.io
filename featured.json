@@ -261,5 +261,19 @@
                 "url": "https://github.com/emptymalei"
             }    
         ]
+    },
+    {
+        "id": "maijin/radare2book",
+        "title": "Radare2 Book",
+        "description": "Learn how to use radare2, a framework for reverse engineering and analyzing binaries",
+        "url": "https://maijin.github.io/radare2book/",
+        "langs": ["en"],
+        "authors": [
+            {
+                "name": "Maijin",
+                "email": "maijin@malware.lu",
+                "url": "https://github.com/maijin"
+            }
+        ]
     }
 ]
