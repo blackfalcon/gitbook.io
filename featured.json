@@ -275,5 +275,24 @@
                 "url": "https://github.com/maijin"
             }
         ]
+    },
+    {
+        "id": "frodsan/theguidetocuba",
+        "title": "The Guide to Cuba",
+        "description": "Learn how to create a Ruby web application with minimalistic tools.",
+        "url": "http://theguidetocuba.io/",
+        "langs": ["en"],
+        "authors": [
+            {
+                "name": "Francesco Rodríguez",
+                "email": "frodsan@me.com",
+                "url": "http://frodsan.me"
+            },
+            {
+                "name": "Mayn Ektvedt Kjær",
+                "email": "maynkj@gmail.com",
+                "url": "http://maynkj.com"
+            }
+        ]
     }
 ]
